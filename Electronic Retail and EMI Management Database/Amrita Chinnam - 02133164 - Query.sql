@@ -1,5 +1,4 @@
-/* AMRITA CHINNAM
-    02133164 */
+/* AMRITA CHINNAM */
     
 /*List all the tables from the database.*/
 SELECT * FROM database_records.Customers_Online;
